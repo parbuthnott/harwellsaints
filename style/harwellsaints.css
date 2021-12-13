@@ -1,38 +1,167 @@
-body     { color: #000; background: #333; margin-left: auto; margin-right: auto; width: 800px;
-      font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%;}
-a:link      { font-weight: bold; color: #FC0; text-decoration: none; }
-a:active { font-weight: bold; color: #FC0; text-decoration: none; }
-a:visited   { font-weight: bold; color: #FC0; text-decoration: none; }
-a:hover  { font-weight: bold; color: #FFF; text-decoration: none; }
-.normaltable   { padding: 0; margin: 0; text-align: left; background: #000; }
-.othertable { padding: 2px; margin: 1px; }
-.borderblk  { border: 1px solid #000; }
-.bordergrey { border: 1px solid #0C5C91; }
-.borderwhite   { border: 1px solid #FC0; }
-.colwhite   { color: #FC0; }
-.colbluey   { color: #FC0; }
-.colgrey { color: #CCC; }
-.colblack   { color: #000; }
-.colgreen   { color: #0F0; }
-.colyellow  { color: #FFF; }
-.colred  { color: #F30; }
-.backwhite  { background: #FFF; }
-.backlight  { background: #003; }
-.backbluey  { background: #333; }
-.backbluer  { background: #039; }
-.backbludk  { background: #333; }
-.backblult  { background: #666; }
-.backgrey   { background: #666; }
-.backgreydk { background: #666; }
-.backred { background: #F30; }
-.backpink   { background: #F99; }
-.backbluvlt { background: #9CF; }
-.size1      { font-size: 0.6em; }
-.size2      { font-size: 0.875em; }
-.isbold  { font-weight: bold; }
-.centered   { text-align: center; }
-.lefted  { text-align: left; }
-.right      { text-align: right; }
-.vtop    { vertical-align: top; }
-.menuimagesize { width: 130px; height: 20px; border: 0; }
-.extrapad      { padding: 2px 5px 5px 5px; }
+body {
+    color: #000;
+    background: #333;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+a:link {
+    font-weight: bold;
+    color: #FC0;
+    text-decoration: none;
+}
+
+a:active {
+    font-weight: bold;
+    color: #FC0;
+    text-decoration: none;
+}
+
+a:visited {
+    font-weight: bold;
+    color: #FC0;
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.normaltable {
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    background: #000;
+}
+
+.othertable {
+    padding: 2px;
+    margin: 1px;
+}
+
+.borderblk {
+    border: 1px solid #000;
+}
+
+.bordergrey {
+    border: 1px solid #0C5C91;
+}
+
+.borderwhite {
+    border: 1px solid #FC0;
+}
+
+.colwhite {
+    color: #FC0;
+}
+
+.colbluey {
+    color: #FC0;
+}
+
+.colgrey {
+    color: #CCC;
+}
+
+.colblack {
+    color: #000;
+}
+
+.colgreen {
+    color: #0F0;
+}
+
+.colyellow {
+    color: #FFF;
+}
+
+.colred {
+    color: #F30;
+}
+
+.backwhite {
+    background: #FFF;
+}
+
+.backlight {
+    background: #003;
+}
+
+.backbluey {
+    background: #333;
+}
+
+.backbluer {
+    background: #039;
+}
+
+.backbludk {
+    background: #333;
+}
+
+.backblult {
+    background: #666;
+}
+
+.backgrey {
+    background: #666;
+}
+
+.backgreydk {
+    background: #666;
+}
+
+.backred {
+    background: #F30;
+}
+
+.backpink {
+    background: #F99;
+}
+
+.backbluvlt {
+    background: #9CF;
+}
+
+.size1 {
+    font-size: 0.6em;
+}
+
+.size2 {
+    font-size: 0.875em;
+}
+
+.isbold {
+    font-weight: bold;
+}
+
+.centered {
+    text-align: center;
+}
+
+.lefted {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.vtop {
+    vertical-align: top;
+}
+
+.menuimagesize {
+    width: 130px;
+    height: 20px;
+    border: 0;
+}
+
+.extrapad {
+    padding: 2px 5px 5px 5px;
+}
