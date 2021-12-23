@@ -17,8 +17,8 @@ function getTopBarAndMenuAndFooter() {
     // loadFileIntoElement("http://localhost:88/harwellsaints/flattened/menu.html", "menu");
     loadFileIntoElement("https://parbuthnott.github.io/harwellsaints/menu.html", "menu");
     // loadFileIntoElement("htto://localhost:88/harwellsaints/flattened/footer.html", "footer");
-    var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-    var today  = new Date();
+    var options = {year: 'numeric', month: 'long', day: 'numeric'};
+    var today = new Date();
     document.getElementById("date").innerHTML = today.toLocaleDateString("en-US", options);
 }
 
