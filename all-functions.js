@@ -14,8 +14,8 @@ function loadFileIntoElement(filename, elementId) {
 
 function getTopBarAndMenuAndFooter() {
     // loadFileIntoElement("htto://localhost:88/harwellsaints/flattened/topbar.html", "topbar");
-    // loadFileIntoElement("http://localhost:88/harwellsaints/flattened/menu.html", "menu");
-    loadFileIntoElement("https://parbuthnott.github.io/harwellsaints/menu.html", "menu");
+    loadFileIntoElement("http://localhost:88/harwellsaints/flattened/menu.html", "menu");
+    // loadFileIntoElement("https://parbuthnott.github.io/harwellsaints/menu.html", "menu");
     // loadFileIntoElement("htto://localhost:88/harwellsaints/flattened/footer.html", "footer");
     var options = {year: 'numeric', month: 'long', day: 'numeric'};
     var today = new Date();
