@@ -4,6 +4,31 @@
     <list default="true" id="dc5c3a14-c665-4d2c-8af4-8de2b1e9ca9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/all-functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/all-functions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixturedetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixturedetails.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_1992-93.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_1992.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_1994-95.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_1994.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2000-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2000.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2001-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2001.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2002-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2002.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2003-04.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2003.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2004-05.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2004.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2005-06.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2005.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2006-07.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2006.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2007-08.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2007.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2008-09.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2008.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2009-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2009.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2010-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2010.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2011-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2011.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2012-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2012.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2013-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2013.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2014-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2014.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2015-16.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2015.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2016-17.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2016.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2017-18.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2017.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2018-19.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2018.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2019-20.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2019.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures/fixtures_2020-21.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures/details_2020.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/players/details_225.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_225.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +100,7 @@
       <workItem from="1640295853061" duration="5224000" />
       <workItem from="1640704308779" duration="649000" />
       <workItem from="1640708948161" duration="602000" />
-      <workItem from="1640958253307" duration="19618000" />
+      <workItem from="1640958253307" duration="20750000" />
     </task>
     <servers />
   </component>
