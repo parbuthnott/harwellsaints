@@ -12,8 +12,9 @@ function loadFileIntoElement(filename, elementId) {
     httpRequest.send();
 }
 
-// let rootUrl = "https://parbuthnott.github.io/harwellsaints/";
-let rootUrl = "http://localhost:88/harwellsaints/flattened/";
+let rootUrl = "https://parbuthnott.github.io/harwellsaints/";
+// let rootUrl = "https://www.harwellsaints.co.uk/";
+// let rootUrl = "http://localhost:88/harwellsaints/flattened/";
 
 function getTopBarAndMenuAndFooter() {
     // loadFileIntoElement(rooturl+"topbar.html", "topbar");
