@@ -37,6 +37,14 @@
             <div id="menu">&nbsp;</div>
         </td>
         <td colspan="2" class="centered vtop">
+            <table style="width: 600px;" class="othertable">
+                <tbody>
+                <tr>
+                    <td class="lefted">
+                        <img src="images/headerFixtures.jpg" alt="tables"></td>
+                </tr>
+                </tbody>
+            </table>
 
             <div id="fixtureDetails">&nbsp;</div>
 
@@ -90,14 +98,6 @@
 
 
 <script type="text/JavaScript">
-    function loadFixtureDetails() {
-        let fixtureId = new URLSearchParams(document.location.search).get("id");
-        if (fixtureId !== null) {
-            // loadFileIntoElement("http://localhost:88/harwellsaints/flattened/fixtures/details_"+fixtureId+".html", "fixtureDetails");
-            loadFileIntoElement("https://parbuthnott.github.io/harwellsaints/fixtures/details_" + fixtureId + ".html", "fixtureDetails");
-        }
-    }
-
     getTopBarAndMenuAndFooter();
     MM_preloadImages('images/players2.jpg', 'images/fixtures2.jpg', 'images/seasonstats2.jpg', 'images/alltimestats2.jpg', 'images/history2.jpg', 'images/infocontact2.jpg', 'images/utvl2.jpg', 'images/table2.jpg', 'images/news2.jpg', 'images/tbr2.jpg');
 </script>
