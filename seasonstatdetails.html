@@ -43,7 +43,7 @@
                 <tbody>
                 <tr>
                     <td class="lefted">
-                        <img src="images/headerStats.jpg" alt="tables"></td>
+                        <img src="images/headerStats.jpg" alt="statistics"></td>
                 </tr>
                 </tbody>
             </table>
@@ -99,14 +99,6 @@
 </table>
 
 <script type="text/JavaScript">
-    function loadSeasonStatDetails() {
-        let seasonStatId = new URLSearchParams(document.location.search).get("id");
-        if (seasonStatId !== null) {
-            loadFileIntoElement("http://localhost:88/harwellsaints/flattened/seasons/details_" + seasonStatId + ".html", "seasonStatDetails");
-            // loadFileIntoElement("https://parbuthnott.github.io/harwellsaints/seasons/details_" + seasonStatId + ".html", "seasonStatDetails");
-        }
-    }
-
     getTopBarAndMenuAndFooter();
     MM_preloadImages('images/players2.jpg', 'images/fixtures2.jpg', 'images/seasonstats2.jpg', 'images/alltimestats2.jpg', 'images/history2.jpg', 'images/infocontact2.jpg', 'images/utvl2.jpg', 'images/table2.jpg', 'images/news2.jpg', 'images/tbr2.jpg');
 </script>

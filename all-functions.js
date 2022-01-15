@@ -12,8 +12,8 @@ function loadFileIntoElement(filename, elementId) {
     httpRequest.send();
 }
 
-// let rootUrl = "https://parbuthnott.github.io/harwellsaints/";
-let rootUrl = "http://localhost:88/harwellsaints/flattened/";
+let rootUrl = "https://parbuthnott.github.io/harwellsaints/";
+// let rootUrl = "http://localhost:88/harwellsaints/flattened/";
 
 function getTopBarAndMenuAndFooter() {
     // loadFileIntoElement(rooturl+"topbar.html", "topbar");
@@ -28,6 +28,27 @@ function loadFixtureDetails() {
     let fixtureId = new URLSearchParams(document.location.search).get("id");
     if (fixtureId !== null) {
         loadFileIntoElement(rootUrl + "fixtures/details_" + fixtureId + ".html", "fixtureDetails");
+    }
+}
+
+function loadPlayerDetails() {
+    let playerId = new URLSearchParams(document.location.search).get("id");
+    if (playerId !== null) {
+        loadFileIntoElement(rootUrl + "players/details_" + playerId + ".html", "playerDetails");
+    }
+}
+
+function loadSeasonStatDetails() {
+    let seasonStatId = new URLSearchParams(document.location.search).get("id");
+    if (seasonStatId !== null) {
+        loadFileIntoElement(rootUrl + "seasons/details_" + seasonStatId + ".html", "seasonStatDetails");
+    }
+}
+
+function loadTableDetails() {
+    let tableId = new URLSearchParams(document.location.search).get("id");
+    if (tableId !== null) {
+        loadFileIntoElement(rootUrl + "tables/details_" + tableId + ".html", "tableDetails");
     }
 }
 

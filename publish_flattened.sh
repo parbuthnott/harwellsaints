@@ -7,10 +7,13 @@ cd ../heads
 rm -rf /c/wamp64/www/harwellsaints/flattened/heads/*.jpg
 cp *.jpg /c/wamp64/www/harwellsaints/flattened/heads
 cd ../images
-rm -rf /c/wamp64/www/harwellsaints/flattened/heads/*.jpg
-cp *.jpg /c/wamp64/www/harwellsaints/flattened/heads
-rm -rf /c/wamp64/www/harwellsaints/flattened/heads/*.gif
-cp *.gif /c/wamp64/www/harwellsaints/flattened/heads
+rm -rf /c/wamp64/www/harwellsaints/flattened/images/*.jpg
+cp *.jpg /c/wamp64/www/harwellsaints/flattened/images
+rm -rf /c/wamp64/www/harwellsaints/flattened/images/*.gif
+cp *.gif /c/wamp64/www/harwellsaints/flattened/images
+cd ../seasons
+rm -rf /c/wamp64/www/harwellsaints/flattened/seasons/*.html
+cp *.html /c/wamp64/www/harwellsaints/flattened/seasons
 cd ../style
 rm -rf /c/wamp64/www/harwellsaints/flattened/style/*.css
 cp *.css /c/wamp64/www/harwellsaints/flattened/style
