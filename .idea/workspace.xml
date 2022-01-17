@@ -3,6 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="dc5c3a14-c665-4d2c-8af4-8de2b1e9ca9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clubstats.html" beforeDir="false" afterPath="$PROJECT_DIR$/clubstats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixturedetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixturedetails.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/history.html" beforeDir="false" afterPath="$PROJECT_DIR$/history.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/playerdetails.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players.html" beforeDir="false" afterPath="$PROJECT_DIR$/players.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players_old.html" beforeDir="false" afterPath="$PROJECT_DIR$/players_old.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasonstatdetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/seasonstatdetails.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasonstats.html" beforeDir="false" afterPath="$PROJECT_DIR$/seasonstats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tabledetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/tabledetails.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/tables.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +104,7 @@
       <workItem from="1640708948161" duration="602000" />
       <workItem from="1640958253307" duration="21615000" />
       <workItem from="1642187446215" duration="10479000" />
-      <workItem from="1642284822523" duration="9478000" />
+      <workItem from="1642284822523" duration="9815000" />
     </task>
     <servers />
   </component>
