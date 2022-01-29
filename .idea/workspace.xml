@@ -2,234 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc5c3a14-c665-4d2c-8af4-8de2b1e9ca9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/make_players.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_100.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_101.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_102.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_103.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_104.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_105.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_106.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_107.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_108.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_109.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_110.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_111.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_112.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_113.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_114.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_115.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_116.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_117.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_118.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_119.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_120.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_121.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_122.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_123.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_124.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_125.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_126.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_127.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_128.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_129.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_130.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_131.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_132.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_133.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_134.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_135.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_136.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_137.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_138.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_139.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_140.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_141.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_142.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_143.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_144.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_145.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_146.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_147.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_148.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_149.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_150.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_151.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_152.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_153.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_154.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_155.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_156.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_157.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_158.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_159.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_16.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_160.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_161.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_162.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_163.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_164.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_165.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_166.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_167.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_168.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_169.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_17.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_170.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_171.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_172.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_173.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_174.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_175.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_176.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_177.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_178.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_179.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_18.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_180.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_181.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_182.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_183.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_184.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_185.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_186.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_187.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_188.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_189.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_19.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_190.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_191.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_192.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_193.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_194.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_195.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_196.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_197.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_198.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_199.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_20.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_200.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_201.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_202.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_203.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_204.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_205.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_206.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_207.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_208.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_209.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_21.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_210.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_211.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_212.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_213.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_214.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_215.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_216.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_217.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_218.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_219.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_22.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_23.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_230.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_238.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_24.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_240.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_244.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_248.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_25.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_26.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_27.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_28.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_29.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_30.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_31.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_32.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_33.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_34.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_35.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_36.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_37.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_38.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_39.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_40.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_41.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_42.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_43.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_44.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_45.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_46.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_47.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_48.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_49.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_50.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_51.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_52.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_53.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_54.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_55.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_56.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_57.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_58.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_59.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_60.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_61.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_62.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_63.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_64.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_65.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_66.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_67.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_68.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_69.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_70.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_71.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_72.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_73.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_74.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_75.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_76.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_77.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_78.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_79.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_80.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_81.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_82.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_83.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_84.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_85.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_86.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_87.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_88.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_89.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_90.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_91.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_92.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_93.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_94.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_95.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_96.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_97.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_98.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/players/details_99.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all-functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/all-functions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/players/details_220.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_220.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_100.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_100.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_101.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_101.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_102.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_102.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_103.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_103.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_104.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_104.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_17.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_18.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_19.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_20.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_21.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_21.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_22.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_22.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_23.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_23.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_24.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_24.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_25.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_25.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_26.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_26.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_27.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_27.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_28.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_28.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_29.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_29.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_30.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_30.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_31.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_31.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_32.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_32.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_33.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_33.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_34.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_34.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_35.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_35.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_36.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_36.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_37.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_37.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_38.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_38.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_39.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_39.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_40.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_40.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_41.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_41.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_42.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_42.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_43.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_43.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_44.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_44.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_45.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_45.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_46.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_46.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_47.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_47.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_48.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_48.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_49.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_49.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_50.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_50.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_51.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_51.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_52.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_52.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_53.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_53.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_54.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_54.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_55.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_55.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_56.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_56.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_57.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_57.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_58.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_58.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_59.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_59.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_60.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_60.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_61.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_61.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_62.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_62.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_63.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_63.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_64.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_64.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_65.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_65.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_66.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_66.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_67.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_67.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_68.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_68.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_69.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_69.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_70.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_70.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_71.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_71.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_72.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_72.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_73.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_73.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_74.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_74.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_75.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_75.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_76.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_76.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_77.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_77.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_78.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_78.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_79.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_79.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_80.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_80.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_81.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_81.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_82.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_82.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_83.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_83.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_84.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_84.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_85.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_85.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_86.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_86.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_87.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_87.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_88.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_88.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_89.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_89.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_90.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_90.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_91.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_91.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_92.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_92.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_93.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_93.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_94.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_94.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_95.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_95.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_96.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_96.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_97.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_97.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_98.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_98.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_99.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_99.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -319,7 +180,7 @@
       <workItem from="1640958253307" duration="21615000" />
       <workItem from="1642187446215" duration="10479000" />
       <workItem from="1642284822523" duration="10883000" />
-      <workItem from="1643453429712" duration="3268000" />
+      <workItem from="1643453429712" duration="5849000" />
     </task>
     <servers />
   </component>
