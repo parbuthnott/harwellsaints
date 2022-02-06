@@ -2,9 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc5c3a14-c665-4d2c-8af4-8de2b1e9ca9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/players/details_253.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_254.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_255.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_256.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_257.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_258.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_259.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_260.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_261.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_262.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_263.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_264.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_265.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_266.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_267.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_268.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/players/details_269.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fixtures.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_14.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_172.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_172.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_200.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_200.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_215.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_215.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_222.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_222.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_234.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_234.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_235.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_235.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_238.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_238.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_240.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_240.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_241.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_241.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_244.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_244.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_245.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_245.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_246.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_246.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_248.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_248.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_249.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_249.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_252.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_252.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasonstats.html" beforeDir="false" afterPath="$PROJECT_DIR$/seasonstats.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +76,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../wamp64/www/harwellsaints/fixturelist.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/players" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -95,7 +128,7 @@
       <workItem from="1642187446215" duration="10479000" />
       <workItem from="1642284822523" duration="10883000" />
       <workItem from="1643453429712" duration="18778000" />
-      <workItem from="1643917460284" duration="2747000" />
+      <workItem from="1643917460284" duration="3703000" />
     </task>
     <servers />
   </component>
