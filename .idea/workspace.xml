@@ -3,7 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="dc5c3a14-c665-4d2c-8af4-8de2b1e9ca9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/players/details_258.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_258.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixtures.html" beforeDir="false" afterPath="$PROJECT_DIR$/fixtures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heads/harris.rikki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/heads/harris.rikki.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heads/noble.kyle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/heads/noble.kyle.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_172.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_172.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_235.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_235.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_238.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_238.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_249.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_249.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_255.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_255.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_256.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_256.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_259.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_259.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_261.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_261.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_262.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_262.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_263.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_263.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/players/details_269.html" beforeDir="false" afterPath="$PROJECT_DIR$/players/details_269.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasonstats.html" beforeDir="false" afterPath="$PROJECT_DIR$/seasonstats.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +114,8 @@
       <workItem from="1644227506453" duration="594000" />
       <workItem from="1646501715684" duration="7373000" />
       <workItem from="1646862419502" duration="666000" />
-      <workItem from="1646866259227" duration="22000" />
+      <workItem from="1646866259227" duration="209000" />
+      <workItem from="1647187725005" duration="1642000" />
     </task>
     <servers />
   </component>
